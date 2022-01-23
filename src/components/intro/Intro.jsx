@@ -11,17 +11,15 @@ const Intro = () => {
         <div className="i-title">
           <div className="i-title-wrapper">
             <div className="i-title-item">Web Developer</div>
-            <div className="i-title-item">Bioconstrutor</div>
-            <div className="i-title-item">React</div>
+            <div className="i-title-item">JavaScript</div>
+            <div className="i-title-item">React.js</div>
             <div className="i-title-item">Node.js</div>
-            <div className="i-title-item">Developer</div>
-            <div className="i-title-item">Developer</div>
+            <div className="i-title-item">MySQL</div>
+            <div className="i-title-item">Docker</div>
           </div>
         </div>
-        <p className="desc">
-          Hoje, busco uma mudança de carreira para a área de tecnologia e desenvolvimento Web. Refletindo, pude chegar a uma conclusão pessoal de que o futuro será tecnológico e sustentável e por isso, quero fazer parte dessa jornada. Trabalhar com soluções digitais e/ou sustentáveis é o que faz sentido para mim, e o que coloco meu total potencial nessa carreira.
-
-Junto à Trybe tenho me equipado com diversas ferramentas, como: Git & GitHub, HTML, CSS, BootStrap, JavaScript, React.js, React Hooks, API Context, Redux, Jest, RTL, Docker, SQL com MySQL, API REST, NodeJS entre outras.
+        <p className="i-desc">
+         Bacharelado em Engenharia Civil pela Faculdade de Engenharia de Sorocaba(FACENS| Desenvolvedor Full Stack Jr. pela Trybe 2020.
         </p>
       </div>
       <svg

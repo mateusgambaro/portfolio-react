@@ -1,9 +1,4 @@
-@media screen and(max-width: 480px) {
-  .c-wrapper {
-    flex-direction: column;
-  }
-  
-}
+
 .c {
   height: 100vh;
   position: relative;
@@ -95,4 +90,11 @@ button:hover {
 button:active {
   transform: translateY(4px);
   background-color: skyblue;
+}
+
+@media screen and (max-width: 480px) {
+  .c-wrapper {
+    flex-direction: column;
+  }
+  
 }

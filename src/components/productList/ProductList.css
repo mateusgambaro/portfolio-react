@@ -8,10 +8,12 @@
 
 .pl-texts {
   width: 65%;
-  font-size: 50px;
-  font-weight: 200;
 }
 
+.pl-title {
+  font-size: 50px;
+  font-weight: 600;
+}
 .pl-desc {
   margin: 20px 0px;
 }
@@ -21,4 +23,16 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+  .pl {
+    margin-top: 300%;
+    padding: 10px;
+  }
+
+  .pl-texts {
+    width: 100%;
+  }
+
 }
