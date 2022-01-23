@@ -14,5 +14,20 @@ export const products = [
     img: "http://casaterrasolucoes.com/wp-content/uploads/2021/08/Design-sem-nome.png",
     link:"https://casaterrasolucoes.com/",
   },
+  {
+    id: 4,
+    img: "http://casaterrasolucoes.com/wp-content/uploads/2021/08/Design-sem-nome.png",
+    link:"https://casaterrasolucoes.com/",
+  },
+  {
+    id: 5,
+    img: "http://casaterrasolucoes.com/wp-content/uploads/2021/08/Design-sem-nome.png",
+    link:"https://casaterrasolucoes.com/",
+  },
+  {
+    id: 6,
+    img: "http://casaterrasolucoes.com/wp-content/uploads/2021/08/Design-sem-nome.png",
+    link:"https://casaterrasolucoes.com/",
+  },
 
 ]

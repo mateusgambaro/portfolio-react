@@ -59,8 +59,6 @@
   color: aquamarine;
   display: flex;
   align-items: center;
-  justify-content: center;
-  
 }
 
 .i-img {
@@ -99,6 +97,9 @@
     height: 100%;
   }
 
+  .i-title-item {
+    justify-content: center;
+  }
   .i-intro {
     font-size: 25px;
   }
