@@ -20,9 +20,9 @@
 
 .a-card.bg {
   position: absolute;
-  top: 50px;
-  left: 50px;
-  background-color: sienna;
+  top: 120px;
+  left: 150px;
+  background-color: #586F7C;
 }
 
 .a-img {

@@ -4,6 +4,7 @@ import mateus from '../../images/mateus.JPG';
 const Intro = () => {
   return (
     <div className = "i">
+      <div className="i-left-bg"></div>
       <div className="i-left">
       <div className="i-left-wrapper">
         <h2 className="i-intro">Olá, meu nome é</h2>
@@ -19,7 +20,7 @@ const Intro = () => {
           </div>
         </div>
         <p className="i-desc">
-         Bacharelado em Engenharia Civil pela Faculdade de Engenharia de Sorocaba(FACENS| Desenvolvedor Full Stack Jr. pela Trybe 2020.
+         Bacharelado em Engenharia Civil pela Faculdade de Engenharia de Sorocaba(FACENS) | Desenvolvedor Full Stack Jr. pela Trybe 2021.
         </p>
       </div>
       <svg
@@ -81,6 +82,7 @@ const Intro = () => {
     </div>
     
       <div className="i-right">
+        <div className="img-bg"></div>
       <img src={mateus} alt="" className="i-img" />
       </div>
     </div>

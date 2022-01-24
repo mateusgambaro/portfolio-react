@@ -52,7 +52,7 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Qual a sua história?</b> Entre em contato.
+            <b>Como posso te ajudar?</b> Entre em contato.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nome" name="user_name" />
