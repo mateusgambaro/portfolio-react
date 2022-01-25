@@ -94,6 +94,11 @@
   bottom: 20px;
 }
 
+.i {
+  display: flex;
+  height: 100vh;
+};
+
 @media screen and (max-width: 480px) {
   .i {
     flex-direction: column;
@@ -145,7 +150,3 @@
   
 }
 
-.i {
-  display: flex;
-  height: 100vh;
-};
