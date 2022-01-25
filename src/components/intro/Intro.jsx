@@ -17,10 +17,18 @@ const Intro = () => {
             <div className="i-title-item">Node.js</div>
             <div className="i-title-item">MySQL</div>
             <div className="i-title-item">Docker</div>
+            <div className="i-title-item">HTML5</div>
+            <div className="i-title-item">CSS3</div>
+            <div className="i-title-item">WordPress</div>
+            <div className="i-title-item">Testes Unitários</div>
           </div>
         </div>
         <p className="i-desc">
-         Bacharelado em Engenharia Civil pela Faculdade de Engenharia de Sorocaba(FACENS) | Desenvolvedor Full Stack Jr. pela Trybe 2021.
+         Bacharelado em Engenharia Civil pela Faculdade de Engenharia de Sorocaba(FACENS) 2019 | Desenvolvedor Web Full Stack Jr. pela Trybe 2021.
+         <br/>
+        </p>
+        <p className='i-desc'>
+        Buscando mudança de carreira para a área de tecnologia e desenvolvimento web. Refletindo, pude chegar a uma conclusão pessoal de que o futuro será tecnológico e sustentável e por isso, quero fazer parte dessa jornada. Trabalhar com soluções digitais e/ou sustentáveis é o que faz sentido para mim, e o que coloco meu total potencial nessa carreira.
         </p>
       </div>
       <svg

@@ -1,5 +1,7 @@
 import casaterra from './images/casaterra.png'
-import trybe from './images/trybe.png'
+import trybetunes from './images/trybetunes.png'
+import trybewarts from './images/trybewarts.png'
+import trybewallet from './images/trybewallet.png'
 
 
 export const products = [
@@ -10,18 +12,18 @@ export const products = [
   },
   {
     id: 2,
-    img: trybe,
-    link:"",
+    img: trybetunes,
+    link:"https://zen-bartik-0e3336.netlify.app",
   },
   {
     id: 3,
-    img: "",
-    link:"",
+    img: trybewallet,
+    link:"https://flamboyant-feynman-c09637.netlify.app",
   },
   {
     id: 4,
-    img: "",
-    link:"",
+    img: trybewarts,
+    link:"https://clever-spence-3ef8f2.netlify.app",
   },
   {
     id: 5,

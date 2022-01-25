@@ -25,12 +25,36 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-bottom: 50px;
+}
+.pl-techs {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
+.tech-img {
+  margin-top: 30px;
+  width: 140px;
+  height: 70px;
+}
 @media screen and (max-width: 480px) {
   .pl {
-    margin-top: 300%;
+    margin-top: 420%;
     padding: 10px;
+  }
+
+  .pl-techs {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+  }
+
+  .pl-techs img {
+    margin: 10px;
   }
 
   .pl-texts {
